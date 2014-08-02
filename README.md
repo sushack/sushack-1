@@ -1,6 +1,9 @@
 Sushack #1
 ==========
-For SusHack #1 we collaborated towards the single goal of getting the Oxford Flood Network up and running. Read more about it at [love-hz.com](http://love-hz.com/)
+
+For SusHack #1 we collaborated towards the single goal of getting the Oxford Flood Network up and running. Read more about it at [oxfloodnet.co.uk](http://oxfloodnet.co.uk/)
+
+This page is not currently maintained - see [https://github.com/OxFloodNet](https://github.com/OxFloodNet) for latest code & forks.
 
 The participants were split in to teams based on different parts of the software stack required to get it all working:
 
